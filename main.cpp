@@ -12,5 +12,5 @@ int main() {
 
 	std::cout << "マージしません";
 	std::count << "プルせずに作業";
-	std::count << "";
+	std::count << "GitHub changed";
 }

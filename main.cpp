@@ -9,4 +9,7 @@ int main() {
 
 	std::cout << "マージしてください";
 	std::cout << "マージしてください";
+
+	std::cout << "マージしません";
+	std::count << "aaaa"
 }
